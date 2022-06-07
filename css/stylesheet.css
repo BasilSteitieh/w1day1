@@ -1,0 +1,55 @@
+form {
+
+  border: 10x solid white;
+  background-color: white;
+  justify-content: center;
+  align-items: center;
+  
+  
+}
+
+body {
+ background-color: black;
+ display: flex;
+ height: 100vh;
+
+}
+
+html{
+  height: 100%;
+}
+
+input {
+  margin: 4px;
+  text-align: center;
+ 
+
+}
+
+h1{
+  color:#543233 ;
+  font-size: 30px;
+  text-align: center;
+  
+}
+
+label, input {
+  
+  display: block;
+  margin-bottom: auto;
+  margin-left: auto;
+}
+
+label { margin-bottom: 5px;
+  font-weight: bold;
+  margin-left: auto;
+}
+
+button{
+  width: 50%;
+  margin-bottom: 25px;
+  position: relative;
+  align-self: center;
+  
+  
+}
